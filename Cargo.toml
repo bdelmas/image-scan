@@ -1,0 +1,10 @@
+[package]
+name = "image-scan"
+version = "0.1.0"
+authors = ["Benjamin Delmas <bdelmas.pro@gmail.com>"]
+license = "MIT/Apache-2.0"
+
+
+[dependencies]
+image = "*"
+
